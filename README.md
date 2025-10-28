@@ -12,6 +12,9 @@ Week 4 events part 2 & variables part 1: https://youtu.be/ssXmwjUGkLU
 
 Week 4 equity & pedagogy: https://www.youtube.com/watch?v=RBwwJMdpO1k, https://snap.berkeley.edu/snap/snap.html#present:Username=dsenthil&ProjectName=hi_geisel
 
+Week 5 conditional loops part 1: https://youtu.be/j-Kcfh0ICOs
+
+
 
 
 
