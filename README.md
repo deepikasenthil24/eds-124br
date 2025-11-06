@@ -14,6 +14,9 @@ Week 4 equity & pedagogy: https://www.youtube.com/watch?v=RBwwJMdpO1k, https://s
 
 Week 5 conditional loops part 1: https://youtu.be/j-Kcfh0ICOs
 
+Week 6 if statements part 1: https://youtu.be/7dV3oPybX4k
+
+
 
 
 
