@@ -18,6 +18,9 @@ Week 6 if statements part 1: https://youtu.be/7dV3oPybX4k
 
 Week 7 nested if/else part 1: https://youtu.be/hGirfqItEsY
 
+Week 8 compound conditionals part 1: https://youtu.be/HMg8ddaiIiY
+
+
 
 
 
