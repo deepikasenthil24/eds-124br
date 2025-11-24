@@ -20,6 +20,10 @@ Week 7 nested if/else part 1: https://youtu.be/hGirfqItEsY
 
 Week 8 compound conditionals part 1: https://youtu.be/HMg8ddaiIiY
 
+Week 10 lists part 1: https://youtu.be/PFbM_-J9MC0
+
+
+
 
 
 
